@@ -1,8 +1,8 @@
-import AppRoutes from "./AppRoutes";
+import Routes from "./Routes";
 
 function App() {
   return (
-    <AppRoutes />
+    <Routes />
   );
 }
 
